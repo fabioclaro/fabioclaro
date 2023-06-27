@@ -1,14 +1,15 @@
-                          Olá, Sou Fábio Claro e trabalho com Analise de Qualidade de Software.
+## Olá, eu sou Fábio 💥 
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/fabioclaro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-      badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+Sou formado em Administração e estou cursando a pós- graduação em Engenharia de Software com ênfase em Qualidade e Teste de Software. Tenho quase 2 anos de experiência como Analista de Teste e Qualidade de Software, trabalhando em diversos segmentos, incluindo educação, saúde, varejo, delivery de fast food e sistemas de gerenciamento de restaurantes e notas fiscais. Durante esse período, tive a oportunidade de atuar em projetos envolvendo produtos Web, Mobile e APIs.
 
+Minhas responsabilidades incluíam a execução de testes manuais, como testes de regressão, exploratórios, usabilidade, aceitação, sanidade e smoke tests. Além disso, também tive experiência em automação de testes Web utilizando Cypress, realizando testes de regressão e E2E.
 
-<div style="display: inline_block" align="center"><br>
- <img align="center" alt="Fabio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Fabio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Fabio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+No contexto ágil, trabalhei com metodologias como Kanban e Scrum, utilizando ferramentas como Jira e Azure DevOps para gerenciamento de tarefas.
+
+## Contato
+                         
+
+<a href="https://www.linkedin.com/in/fabioclaro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-      badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 </br>
