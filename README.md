@@ -1,8 +1,8 @@
 ## Olá, eu sou Fábio 💥 
 
-Sou formado em Administração e estou cursando a pós- graduação em Engenharia de Software com ênfase em Qualidade e Teste de Software. Tenho quase 2 anos de experiência como Analista de Teste e Qualidade de Software, trabalhando em diversos segmentos, incluindo educação, saúde, varejo, delivery de fast food e sistemas de gerenciamento de restaurantes e notas fiscais. Durante esse período, tive a oportunidade de atuar em projetos envolvendo produtos Web, Mobile e APIs.
+Sou formado em Administração e pós- graduação em Engenharia de Software com ênfase em Qualidade e Teste de Software. Tenho 3 anos e meio de experiência como Analista de Teste e Qualidade de Software, trabalhando em diversos segmentos, incluindo educação, saúde, varejo, delivery de fast food, sistemas de gerenciamento de restaurantes, notas fiscais e Gestão de desempenho de pessoas. Durante esse período, tive a oportunidade de atuar em projetos envolvendo produtos Web, Mobile e APIs.
 
-Minhas responsabilidades incluíam a execução de testes manuais, como testes de regressão, exploratórios, usabilidade, aceitação, sanidade e smoke tests. Além disso, também tive experiência em automação de testes Web utilizando Cypress, realizando testes de regressão e E2E.
+Minhas responsabilidades incluíam a execução de testes manuais, como testes de regressão, exploratórios, usabilidade, aceitação, sanidade e smoke tests. Além disso, também tenho experiência em automação de testes Web utilizando Cypress, elaborando script de teste e criando testes de regressão e E2E.
 
 No contexto ágil, trabalhei com metodologias como Kanban e Scrum, utilizando ferramentas como Jira e Azure DevOps para gerenciamento de tarefas.
 
